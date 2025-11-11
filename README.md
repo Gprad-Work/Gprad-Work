@@ -1,4 +1,9 @@
-## Hi there 👋
+Hi there, I'm Geet Pradhan 👋
+🚀 Product Security Engineer
+
+I'm passionate about building scalable, secure infrastructure and automating complex cloud environments. Currently focused on infrastructure automation, security engineering, and data pipeline optimization.
+
+<p align="center"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Security%20Engineering-2E8B57?style=for-the-badge&logo=securityscan&logoColor=white"/> <img src="https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Automation-FFD43B?style=for-the-badge&logo=python&logoColor=black"/> </p>
 
 <!--
 **Gprad-Work/Gprad-Work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
