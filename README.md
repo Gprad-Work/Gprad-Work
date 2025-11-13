@@ -2,8 +2,9 @@
 
 ## 🚀 Product Security Engineer
 
-I'm passionate about building scalable, secure products and infra along with automating complex cloud environments.  
-Currently focused on infrastructure automation, security engineering, and security operations as Code
+- 🔭 Currently securing **Lime’s products** — from mobile apps to connected vehicles.  
+- 🌱 Learning how to do the **cleanest pull-ups** (balance between strength & patience).  
+- 💬 Ask me about **building security programs from 0 → 1** 
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -13,67 +14,59 @@ Currently focused on infrastructure automation, security engineering, and securi
   <img src="https://img.shields.io/badge/Automation-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
 </p>
 
+---
+## 💡 Tech Philosophy  
+
+> “Sometimes it needs to work before being perfect.”  
+
+I believe in **shipping secure systems that evolve**, not delaying progress for theoretical perfection.  
+Good security engineering is pragmatic — it enables velocity, scales through automation, and learns from iteration.  
+Whether it's automating detections, hardening infrastructure, or reviewing IaC changes, my goal is to make **security invisible but indispensable**.
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🧱 Infrastructure as Code  
 
-### 🧱 Infrastructure as Code
-<p align="center">
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CloudFront-F8991D?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IAM-FFB300?style=for-the-badge&logo=keybase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kinesis-FF9900?style=for-the-badge&logo=aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GuardDuty-FF4C4C?style=for-the-badge&logo=shield&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KMS-007ACC?style=for-the-badge&logo=lock&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Glue-232F3E?style=for-the-badge&logo=apache-spark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DMS-232F3E?style=for-the-badge&logo=databricks&logoColor=white"/>
-</p>
+I work closely with Terraform-based infrastructure, interacting daily with modules for **S3**, **IAM roles**, **CloudFront**, and **Cloudflare**. While I’m not the owner of our Terraform environment, I play a key role in ensuring **security and compliance standards** across all IaC deployments.  
+- Assisted in **multi-region AWS environment orchestration** and resource imports.  
+- Conducted **code reviews** for IAM-related pull requests to enforce least-privilege access.  
+- Ensured **encryption and baseline security standards** are met across AWS resources.  
 
 ---
 
-### 🔒 Security Engineering
-<p align="center">
-  <img src="https://img.shields.io/badge/IAM%20Policy%20Management-FFB300?style=for-the-badge&logo=keybase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SIEM%20Integration-2E8B57?style=for-the-badge&logo=elastic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vulnerability%20Management-FF0000?style=for-the-badge&logo=datadog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Network%20Security-4682B4?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Compliance%20%26%20Remediation-6A5ACD?style=for-the-badge&logo=audible&logoColor=white"/>
-</p>
+## 🔒 Security Engineering  
+
+Security is at the center of my work. I specialize in embedding **detection, automation, and policy enforcement** directly into engineering workflows to enable **proactive threat detection and response**.  
+- Strengthened **Service Control Policies (SCPs)** and improved IAM role hygiene.  
+- Developed a dedicated **Detection as Code (DaC)** repository with CI validators that synchronize detections with the **SIEM pipeline**.  
+- Implemented **open-source vulnerability management** tooling and built an **incident response (IR)** framework — defining SEV levels, automating alerting, and operationalizing response playbooks.  
+- Leveraged **GitHub’s native security features** (branch protection rules, commit signing, secret scanning) to enforce a **secure-by-default** development culture.  
 
 ---
 
-### ⚙️ DevOps & Automation
-<p align="center">
-  <img src="https://img.shields.io/badge/CI%2FCD%20Pipelines-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git%20Workflows-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Configuration%20Management-FFD43B?style=for-the-badge&logo=yaml&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Automation-00897B?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Infrastructure%20Testing-0066CC?style=for-the-badge&logo=testcafe&logoColor=white"/>
-</p>
+## ⚙️ DevOps & Automation  
+
+My focus lies in **security automation** and **CI/CD integration**, bringing bots and AI into development workflows to enhance assurance without slowing delivery.  
+- Built and maintained **security scanning pipelines** using **GitHub Actions** and **CircleCI**.  
+- Created **bots for automated commit signing** and branch protection enforcement.  
+- Introduced **AI-assisted validation and review systems**, pairing automation with human approval for high-value changes.  
+- Contributed to **infrastructure and configuration testing**, improving consistency and compliance coverage.  
 
 ---
 
-### 📊 Data Engineering
-<p align="center">
-  <img src="https://img.shields.io/badge/Stream%20Processing-FF6F00?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kinesis-FF9900?style=for-the-badge&logo=aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Lakes-0E76A8?style=for-the-badge&logo=lakefs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Iceberg-2C2255?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CDC%20Pipelines-00BFFF?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ETL%20Automation-232F3E?style=for-the-badge&logo=apache-spark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20Glue-FFB300?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-</p>
+## 📊 Data Engineering  
+
+Experience in **security telemetry** and **data ingestion** workflows — particularly in operationalizing event streams for security visibility.
+- Worked with **telemetry data** for event correlation and monitoring.  
+- Focused on **data integrity**, **access control**, and **security compliance** across analytics pipelines.  
 
 ---
 
-## 🔍 Current Focus
+## 🔍 Current Focus  
 
 🎯 **Product Security** – Establishing end-to-end security coverage across the entire product lifecycle, from design and development to deployment and operations.  
-⚙️ **SecOps Pipeline Maturity** – Evolving the detection, response, and automation pipelines to improve speed, coverage, and resilience.  
-🤖 **Security Automation** – Scaling security initiatives by automating policy enforcement, monitoring, and response workflows.
+⚙️ **SecOps Pipeline Maturity** – Evolving detection, response, and automation pipelines to improve speed, coverage, and resilience.  
+🤖 **Security Automation** – Scaling security initiatives by automating policy enforcement, monitoring, and response workflows.  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Product%20Security-1E90FF?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -83,21 +76,3 @@ Currently focused on infrastructure automation, security engineering, and securi
 
 ---
 
-## 📊 Recent Projects
-
-- **S3 Lifecycle Management** – Automated buc
-
-<!--
-**Gprad-Work/Gprad-Work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
