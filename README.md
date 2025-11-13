@@ -3,7 +3,7 @@
 ## 🚀 Product Security Engineer
 
 - 🔭 Currently securing **Lime’s products** — from mobile apps to connected vehicles.  
-- 🌱 Learning how to do the **cleanest pull-ups** (balance between strength & patience).  
+- 🌱 Learning how to do the **cleanest pull-ups** - cant do it lol
 - 💬 Ask me about **building security programs from 0 → 1** 
 
 ---
