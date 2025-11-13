@@ -6,12 +6,18 @@
 - 🌱 Learning how to do the **cleanest pull-ups** (balance between strength & patience).  
 - 💬 Ask me about **building security programs from 0 → 1** 
 
+---
+## 💻 Languages & Frameworks  
+
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Security%20Engineering-2E8B57?style=for-the-badge&logo=securityscan&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Automation-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YAML-FFD43B?style=for-the-badge&logo=yaml&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
 
 ---
@@ -20,10 +26,10 @@
 > “Sometimes it needs to work before being perfect.”  
 
 I believe in **shipping secure systems that evolve**, not delaying progress for theoretical perfection.  
-Good security engineering is pragmatic — it enables velocity, scales through automation, and learns from iteration.  
-Whether it's automating detections, hardening infrastructure, or reviewing IaC changes, my goal is to make **security invisible but indispensable**.
+Imo - security engineering should be realistic with a hint of aspirational — it enables velocity, scales through automation, and learns from iteration - while also dreaming of a 100% non incident reate :)))  
 
 ---
+
 
 ## 🧱 Infrastructure as Code  
 
@@ -46,17 +52,19 @@ Security is at the center of my work. I specialize in embedding **detection, aut
 
 ## ⚙️ DevOps & Automation  
 
-My focus lies in **security automation** and **CI/CD integration**, bringing bots and AI into development workflows to enhance assurance without slowing delivery.  
+My focus lies in bringing security into development workflows to enhance assurance without slowing delivery.
 - Built and maintained **security scanning pipelines** using **GitHub Actions** and **CircleCI**.  
 - Created **bots for automated commit signing** and branch protection enforcement.  
 - Introduced **AI-assisted validation and review systems**, pairing automation with human approval for high-value changes.  
-- Contributed to **infrastructure and configuration testing**, improving consistency and compliance coverage.  
+- Contributed to **infrastructure and configuration testing**, improving consistency and compliance coverage.
+- Created an e2e **detection engineering** pipeline.
 
 ---
 
+
 ## 📊 Data Engineering  
 
-Experience in **security telemetry** and **data ingestion** workflows — particularly in operationalizing event streams for security visibility.
+Limited but growing experience in **security telemetry** and **data ingestion** workflows — particularly in operationalizing security event streams.  
 - Worked with **telemetry data** for event correlation and monitoring.  
 - Focused on **data integrity**, **access control**, and **security compliance** across analytics pipelines.  
 
