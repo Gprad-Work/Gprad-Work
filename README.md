@@ -1,6 +1,6 @@
 # Hi there, I'm Geet Pradhan 👋  
 
-🚀 **Product Security Engineer @ Lime**  
+🚀 **Senior Product Security Engineer @ Lime**  
 🔐 Building secure systems that scale | 💻 DevSecOps | 🤖 Security Nerd
 🌱 Still trying (and failing) to master pull-ups 😅  
 💬 Ask me about **building security programs from 0 → 1**
